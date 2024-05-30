@@ -28,3 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lroffic&" alt="lroffic" /></p>
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=LRoffic" alt="LRoffic&#39;s WakaTime stats"></a></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
