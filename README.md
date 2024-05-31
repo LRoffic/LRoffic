@@ -1,4 +1,4 @@
-<a href="https://lripsum.net" target="_blank"><img align="center" src="https://i.imgur.com/YjVViIc.png" /></a>
+<a href="https://lripsum.net" target="_blank"><img align="center" src="header.png" /></a>
 <h3 align="center">A self-taught and passionate full stack web developer from France (it's on planet Earth)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lroffic&label=Profile%20views&color=0e75b6&style=flat" alt="lroffic" /> </p>
@@ -88,8 +88,8 @@
     </a>
 </p>
 
-<!--START_SECTION_SHOW_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_SHOW_DAILY_COMMIT:readme-info-->
+<!--START_SECTION_SHOW_DAILY_COMMIT:waka-->
+<!--END_SECTION_SHOW_DAILY_COMMIT:-->
 
-<!--START_SECTION_SHOW_WEEKLY_COMMIT:readme-info -->
-<!--END_SECTION_SHOW_WEEKLY_COMMIT:readme-info -->
+<!--START_SECTION_SHOW_WEEKLY_COMMIT:waka -->
+<!--END_SECTION_SHOW_WEEKLY_COMMIT:waka -->
