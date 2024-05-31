@@ -73,8 +73,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lroffic&show_icons=true&locale=en&layout=compact" alt="lroffic" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lroffic&show_icons=true&locale=en" alt="lroffic" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lroffic&" alt="lroffic" />
 </p>
 
@@ -85,8 +88,8 @@
     </a>
 </p>
 
-<!--START_SECTION:SHOW_DAILY_COMMIT-->
-<!--END_SECTION:SHOW_DAILY_COMMIT-->
+<!--START_SECTION_SHOW_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_SHOW_DAILY_COMMIT:readme-info-->
 
-<!--START_SECTION:SHOW_WEEKLY_COMMIT -->
-<!--END_SECTION:SHOW_WEEKLY_COMMIT -->
+<!--START_SECTION_SHOW_WEEKLY_COMMIT:readme-info -->
+<!--END_SECTION_SHOW_WEEKLY_COMMIT:readme-info -->
