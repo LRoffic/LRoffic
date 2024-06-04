@@ -81,13 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lroffic&" alt="lroffic" />
 </p>
 
-<p align="center">
-    &nbsp
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img akign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LRoffic" alt="LRoffic&#39;s WakaTime stats">
-    </a>
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2055%20mins-blue)
 
