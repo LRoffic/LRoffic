@@ -90,7 +90,7 @@
 
 > 📦 93.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 161 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -125,16 +125,16 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -152,5 +152,5 @@ PHP                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2024 18:33:29 UTC
+ Last Updated on 21/06/2024 18:33:52 UTC
 <!--END_SECTION:waka-->
