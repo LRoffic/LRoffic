@@ -125,21 +125,16 @@ Sunday                   311 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   4 hrs 56 mins       ██████████████████████░░░   88.03 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     5 hrs 30 mins       ████████████████████████░   97.92 % 
-oxalt.old                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -156,5 +151,5 @@ PHP                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2024 18:34:56 UTC
+ Last Updated on 18/07/2024 18:34:40 UTC
 <!--END_SECTION:waka-->
