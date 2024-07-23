@@ -82,7 +82,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -125,16 +125,20 @@ Sunday                   311 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   2 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.36 % 
+JavaScript               1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   40.18 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -151,5 +155,5 @@ PHP                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 18:34:27 UTC
+ Last Updated on 23/07/2024 18:33:28 UTC
 <!--END_SECTION:waka-->
