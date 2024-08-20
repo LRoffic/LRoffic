@@ -125,22 +125,16 @@ Sunday                   323 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   48 mins             █████████░░░░░░░░░░░░░░░░   35.50 % 
-Markdown                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-JSON                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     1 hr 22 mins        ███████████████░░░░░░░░░░   60.25 % 
-Svelte Modal Component   48 mins             █████████░░░░░░░░░░░░░░░░   34.96 % 
-privatelink              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -157,5 +151,5 @@ PHP                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:35:07 UTC
+ Last Updated on 20/08/2024 18:34:34 UTC
 <!--END_SECTION:waka-->
