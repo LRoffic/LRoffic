@@ -90,6 +90,8 @@
 
 > 📦 31.3 kB Used in GitHub's Storage 
  > 
+> 🏆 344 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -151,5 +153,5 @@ PHP                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 18:36:20 UTC
+ Last Updated on 14/11/2024 18:37:03 UTC
 <!--END_SECTION:waka-->
