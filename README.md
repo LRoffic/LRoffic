@@ -88,7 +88,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 37.0 kB Used in GitHub's Storage 
+> 📦 36.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -151,5 +153,5 @@ PHP                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2025 18:40:17 UTC
+ Last Updated on 01/04/2025 18:39:48 UTC
 <!--END_SECTION:waka-->
