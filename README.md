@@ -88,7 +88,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 36.1 kB Used in GitHub's Storage 
+> 📦 36.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -123,16 +123,16 @@ Sunday                   157 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -151,5 +151,5 @@ PHP                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 18:36:55 UTC
+ Last Updated on 06/04/2025 18:37:10 UTC
 <!--END_SECTION:waka-->
