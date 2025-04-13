@@ -90,8 +90,6 @@
 
 > 📦 37.3 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -125,16 +123,16 @@ Sunday                   365 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -153,5 +151,5 @@ PHP                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 18:37:32 UTC
+ Last Updated on 13/04/2025 18:37:39 UTC
 <!--END_SECTION:waka-->
