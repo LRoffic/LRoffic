@@ -82,8 +82,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -98,45 +96,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                544 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-🌆 Daytime                1127 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌃 Evening                895 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌙 Night                  923 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   639 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Wednesday                581 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Thursday                 668 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Friday                   703 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Saturday                 117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Sunday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Svelte** 
 
 ```text
@@ -153,5 +112,5 @@ PHP                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:37:55 UTC
+ Last Updated on 28/09/2025 18:38:08 UTC
 <!--END_SECTION:waka-->
