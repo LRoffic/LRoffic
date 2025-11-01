@@ -98,45 +98,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                544 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-🌆 Daytime                1127 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌃 Evening                895 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌙 Night                  923 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   639 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Wednesday                581 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Thursday                 668 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Friday                   703 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Saturday                 117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Sunday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Svelte** 
 
 ```text
@@ -153,5 +114,5 @@ PHP                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:42:27 UTC
+ Last Updated on 01/11/2025 18:38:21 UTC
 <!--END_SECTION:waka-->
