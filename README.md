@@ -125,17 +125,16 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   4 mins              ██████████████████░░░░░░░   70.15 % 
-HTML                     1 min               ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -154,5 +153,5 @@ PHP                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 19:01:13 UTC
+ Last Updated on 29/04/2026 18:57:28 UTC
 <!--END_SECTION:waka-->
