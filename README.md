@@ -82,8 +82,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2017%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -125,16 +123,22 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 4 mins         █████████████░░░░░░░░░░░░   50.22 % 
+Svelte                   47 mins             █████████░░░░░░░░░░░░░░░░   37.35 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Batchfile                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+darki                    1 hr 46 mins        █████████████████████░░░░   83.26 % 
+blog                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+privatelink              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -153,5 +157,5 @@ PHP                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 19:10:08 UTC
+ Last Updated on 22/05/2026 19:04:54 UTC
 <!--END_SECTION:waka-->
