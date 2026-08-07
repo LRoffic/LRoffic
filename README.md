@@ -82,8 +82,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2038%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -98,51 +96,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌆 Daytime                1127 commits        ████████░░░░░░░░░░░░░░░░░   32.26 % 
-🌃 Evening                895 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-🌙 Night                  923 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   639 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Tuesday                  417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Wednesday                581 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Thursday                 668 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Friday                   703 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Saturday                 117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Sunday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Svelte** 
 
 ```text
@@ -160,5 +113,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:01:31 UTC
+ Last Updated on 07/08/2026 00:21:04 UTC
 <!--END_SECTION:waka-->
