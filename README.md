@@ -82,7 +82,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
@@ -125,22 +127,45 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   32 mins             ████████████░░░░░░░░░░░░░   47.93 % 
+JavaScript               18 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     57 mins             ██████████████████████░░░   86.21 % 
+darki                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+agent-customization      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+call_dUXvPHMLP0LD8Khv6Qoa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 4 mins (96.65%)
+
+✍️ 3,750 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 16 AI Prompts
+
+Github-Copilot           3,752 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,252 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -160,5 +185,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:37:49 UTC
+ Last Updated on 08/09/2026 21:17:18 UTC
 <!--END_SECTION:waka-->
