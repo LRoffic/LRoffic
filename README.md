@@ -127,46 +127,45 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   1 hr 14 mins        █████████████░░░░░░░░░░░░   50.67 % 
-JavaScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Svelte                   1 hr 1 min          ███████████████░░░░░░░░░░   61.73 % 
+Other                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        ██████████████████████░░░   89.02 % 
+Antigravity Desktop      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 
 🐱‍💻 Projects: 
-blog                     1 hr 53 mins        ███████████████████░░░░░░   77.18 % 
-signup                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-darki                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-admin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-src                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+blog                     1 hr 14 mins        ███████████████████░░░░░░   75.32 % 
+signup                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+admin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+src                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+login                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (87.98%)
+⏱ AI Coding Time: 1 hr 23 mins (84.34%)
 
-✍️ 3,750 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 34 AI Prompts
-
-Github-Copilot           3,752 lines         █████████████████████████   100.00 % 
+🧠 3 AI Sessions, 19 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,091 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 59 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -186,5 +185,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:56:19 UTC
+ Last Updated on 15/09/2026 21:33:11 UTC
 <!--END_SECTION:waka-->
