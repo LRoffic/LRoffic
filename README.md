@@ -127,31 +127,27 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   1 hr 1 min          ███████████████░░░░░░░░░░   61.73 % 
-Other                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Svelte                   1 hr 1 min          ███████████████████████░░   91.93 % 
+JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        ██████████████████████░░░   89.02 % 
-Antigravity Desktop      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+VS Code                  55 mins             █████████████████████░░░░   83.65 % 
+Antigravity Desktop      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 
 🐱‍💻 Projects: 
-blog                     1 hr 14 mins        ███████████████████░░░░░░   75.32 % 
-signup                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-admin                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-src                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-login                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+blog                     1 hr                ███████████████████████░░   90.39 % 
+admin                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+login                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (84.34%)
+⏱ AI Coding Time: 54 mins (81.98%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -159,11 +155,11 @@ Windows                  1 hr 38 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 19 AI Prompts
+🧠 2 AI Sessions, 13 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 59 characters per prompt
+📝 Concise Prompter — average 52 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -185,5 +181,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:33:19 UTC
+ Last Updated on 18/09/2026 21:03:28 UTC
 <!--END_SECTION:waka-->
