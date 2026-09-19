@@ -127,41 +127,22 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Svelte                   1 hr 1 min          ███████████████████████░░   91.93 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████░░░░   83.65 % 
-Antigravity Desktop      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     1 hr                ███████████████████████░░   90.39 % 
-admin                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-login                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (81.98%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 13 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -181,5 +162,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:03:28 UTC
+ Last Updated on 19/09/2026 20:52:12 UTC
 <!--END_SECTION:waka-->
