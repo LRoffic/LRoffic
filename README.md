@@ -82,9 +82,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
@@ -127,22 +127,44 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 13 mins        █████████████████████░░░░   82.10 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             ████████████████░░░░░░░░░   64.08 % 
+Antigravity Desktop      31 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     55 mins             ███████████████░░░░░░░░░░   61.41 % 
+Unknown Project          34 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+sortarr                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 29 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 30,047 Input Tokens, 4,220 Output Tokens
+
+💵 $0.12 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 12 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 281 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -162,5 +184,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:27:27 UTC
+ Last Updated on 28/10/2026 22:43:59 UTC
 <!--END_SECTION:waka-->
