@@ -82,9 +82,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
@@ -127,27 +127,29 @@ Sunday                   368 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 13 mins        █████████████████████░░░░   82.10 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Other                    2 hrs 20 mins       ██████████████████████░░░   88.69 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Svelte                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  57 mins             ████████████████░░░░░░░░░   64.08 % 
-Antigravity Desktop      31 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  2 hrs 6 mins        ████████████████████░░░░░   79.69 % 
+Antigravity Desktop      31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-blog                     55 mins             ███████████████░░░░░░░░░░   61.41 % 
-Unknown Project          34 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
-sortarr                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+blog                     2 hrs 4 mins        ████████████████████░░░░░   78.18 % 
+Unknown Project          34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+sortarr                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 38 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -155,15 +157,15 @@ Windows                  1 hr 29 mins        ███████████�
 
 💵 $0.12 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 281 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 241 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -184,5 +186,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:43:59 UTC
+ Last Updated on 29/10/2026 22:53:33 UTC
 <!--END_SECTION:waka-->
