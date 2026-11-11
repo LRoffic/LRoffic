@@ -26,14 +26,18 @@ jobs:
 
           # Configuration Wakapi
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages
           plugin_wakatime_user: "LRoffic"
           plugin_wakatime_url: "https://wakapi.lripsum.net"
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Statistiques sur les 7 derniers jours
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, languages
 
           # Génération
           committer_message: "chore: update wakatime metrics"
           output_action: commit
 
-          # Debug
-          debug: yes
+          # Debug désactivé
+          debug: no
