@@ -2,14 +2,14 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 18:30 UTC every day
     - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -20,4 +20,5 @@ jobs:
           plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, projects, languages
-
+          committer_branch: main
+          committer_message: "Update WakaTime metrics"
