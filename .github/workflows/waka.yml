@@ -17,7 +17,7 @@ jobs:
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages
-          plugin_wakatime_user: current
+          plugin_wakatime_user: LRoffic
           plugin_wakatime_url: "https://wakapi.lripsum.net/api" # Pointe vers votre instance Wakapi personnelle
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Votre clé API Wakapi stockée dans les secrets
