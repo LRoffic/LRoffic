@@ -1,25 +1,13 @@
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_user: current
-          plugin_wakatime_client_id: ${{ secrets.WAKATIME_CLIENT_ID }}
-          plugin_wakatime_client_secret: ${{ secrets.WAKATIME_CLIENT_SECRET }}
-          plugin_wakatime_sections: time, projects, languages
-          committer_branch: main
-          committer_message: "Update WakaTime metrics"
+- name: WakaTime Stats
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics.plugin.wakatime.svg
+    token: NOT_NEEDED
+    base: ""
+    plugin_wakatime: yes
+    plugin_wakatime_sections: time, projects, languages
+    plugin_wakatime_user: current
+    # C'est ici qu'on redirige vers votre Wakapi personnel :
+    plugin_wakatime_url: "https://wakapi.lripsum.net/api"
+  env:
+    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
