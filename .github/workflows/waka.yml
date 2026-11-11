@@ -6,19 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: anmol098/waka-readme-stats@master
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_user: current
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, projects, languages
-          committer_branch: main
-          committer_message: "Update WakaTime metrics"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: false
