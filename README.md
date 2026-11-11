@@ -88,6 +88,14 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
+<img src="https://wakapi.lripsum.net/api/badge/LRoffic/interval:today?label=today" />
+
+<img src="https://wakapi.lripsum.net/api/badge/LRoffic/LRoffic/interval:30_days?label=last%2030d" />
+
+<img src="https://img.shields.io/endpoint?url=https://wakapi.lripsum.net/api/compat/shields/v1/LRoffic/interval:all_time&label=All%20time&color=blue" />
+
+<img src="https://github-stats-extended.vercel.app//api/wakatime?username=LRoffic&api_domain=wakapi.lripsum.net&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact" />
+
 **🐱 My GitHub Data** 
 
 > 📦 37.2 kB Used in GitHub's Storage 
