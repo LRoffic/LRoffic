@@ -3,7 +3,7 @@ name: WakaTime Stats
 on:
   schedule:
     - cron: "0 0 * * *" # S'exécute tous les jours à minuit
-  workflow_dispatch:
+  workflow_dispatch: # Permet de le lancer manuellement depuis l'onglet Actions
 
 jobs:
   wakatime:
@@ -13,11 +13,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
-          token: ${{ secrets.METRICS_TOKEN }} # Token GitHub classique pour modifier votre profil
+          token: ${{ secrets.METRICS_TOKEN }} # Votre Personal Access Token GitHub
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages
           plugin_wakatime_user: current
-          plugin_wakatime_url: "https://wakapi.lripsum.net/api" # Pointe vers votre Wakapi
+          plugin_wakatime_url: "https://wakapi.lripsum.net/api" # Pointe vers votre instance Wakapi personnelle
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Votre clé API Wakapi stockée dans les secrets
