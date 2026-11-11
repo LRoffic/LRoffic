@@ -1,3 +1,4 @@
+
 name: WakaTime Stats
 
 on:
@@ -10,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Generate WakaTime metrics
         uses: lowlighter/metrics@latest
@@ -17,11 +19,17 @@ jobs:
           filename: metrics.plugin.wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages
           plugin_wakatime_user: "LRoffic"
-          plugin_wakatime_url: "https://waka-api.lripsum.net/api/compat/wakatime/v1"
+
+          # Adresse de base Wakapi, sans chemin API
+          plugin_wakatime_url: "https://waka-api.lripsum.net"
+
+          # Clé API Wakapi stockée dans les secrets GitHub
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
           committer_message: "chore: update wakatime metrics"
           output_action: commit
           debug: yes
