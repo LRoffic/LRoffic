@@ -1,61 +1,43 @@
 
-name: WakaTime Stats
+name: Diagnose Wakapi
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  wakatime:
+  diagnose:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      # 1. Vérification des routes API Wakapi
-      - name: Diagnose Wakapi API
+      - name: Test Wakapi API endpoints
         env:
           WAKAPI_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           BASE="https://waka-api.lripsum.net"
 
-          for PATH_API in \
+          for API_PATH in \
             "/api/v1/users/LRoffic/stats/last_7_days" \
             "/api/compat/wakatime/v1/users/LRoffic/stats/last_7_days"
           do
-            echo "=================================="
-            echo "Testing: $PATH_API"
-            echo "=================================="
+            echo ""
+            echo "===================================="
+            echo "TEST: $API_PATH"
+            echo "===================================="
 
-            curl --connect-timeout 10 --max-time 20 \
+            HTTP_CODE=$(curl \
+              --connect-timeout 10 \
+              --max-time 20 \
               -sS \
               -o /tmp/wakapi-response.json \
-              -w "\nHTTP_STATUS=%{http_code}\n" \
+              -w "%{http_code}" \
               --get \
               --data-urlencode "api_key=$WAKAPI_KEY" \
-              "$BASE$PATH_API" \
-              || echo "CURL_CONNECTION_ERROR"
+              "$BASE$API_PATH") || true
 
-            echo "API response:"
+            echo "HTTP_STATUS=${HTTP_CODE:-CONNECTION_ERROR}"
+            echo "API_RESPONSE:"
+
             cat /tmp/wakapi-response.json 2>/dev/null || true
+            rm -f /tmp/wakapi-response.json
             echo ""
           done
-
-      # 2. Génération des statistiques WakaTime
-      - name: Generate WakaTime metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages
-          plugin_wakatime_user: "LRoffic"
-          plugin_wakatime_url: "https://waka-api.lripsum.net"
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-
-          committer_message: "chore: update wakatime metrics"
-          output_action: commit
-          debug: yes
