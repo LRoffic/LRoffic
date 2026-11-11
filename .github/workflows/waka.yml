@@ -1,30 +1,39 @@
 
-name: Diagnose Wakapi
+name: WakaTime Stats
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  diagnose:
+  wakatime:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - name: Test Wakapi API
-        env:
-          WAKAPI_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          BASE="https://wakapi.lripsum.net"
+      - name: Generate WakaTime metrics
+        uses: lowlighter/metrics@latest
 
-          echo "DNS:"
-          getent ahosts wakapi.lripsum.net || true
+        with:
+          filename: metrics.plugin.wakatime.svg
 
-          echo "API:"
-          curl -sS -L \
-            --connect-timeout 10 \
-            --max-time 20 \
-            -o /tmp/response.json \
-            -w "\nHTTP_STATUS=%{http_code}\n" \
-            --get \
-            --data-urlencode "api_key=$WAKAPI_KEY" \
-            "$BASE/api/v1/users/LRoffic/stats/last_7_days" || true
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          cat /tmp/response.json 2>/dev/null || true
+          base: ""
+
+          # Configuration Wakapi
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, languages
+          plugin_wakatime_user: "LRoffic"
+          plugin_wakatime_url: "https://wakapi.lripsum.net"
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Génération
+          committer_message: "chore: update wakatime metrics"
+          output_action: commit
+
+          # Debug
+          debug: yes
