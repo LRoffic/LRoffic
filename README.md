@@ -179,7 +179,7 @@ PHP                      1 repo              ████░░░░░░░�
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
+![Wakatime Stats](metrics.plugin.wakatime.svg)
 
  Last Updated on 31/10/2026 21:46:18 UTC
 <!--END_SECTION:waka-->
