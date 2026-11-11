@@ -18,8 +18,7 @@ jobs:
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_user: current
-          plugin_wakatime_client_id: ${{ secrets.WAKATIME_CLIENT_ID }}
-          plugin_wakatime_client_secret: ${{ secrets.WAKATIME_CLIENT_SECRET }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, projects, languages
           committer_branch: main
           committer_message: "Update WakaTime metrics"
