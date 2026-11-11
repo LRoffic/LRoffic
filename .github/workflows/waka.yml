@@ -13,6 +13,36 @@ jobs:
       contents: write
 
     steps:
+      # 1. Vérification des routes API Wakapi
+      - name: Diagnose Wakapi API
+        env:
+          WAKAPI_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          BASE="https://waka-api.lripsum.net"
+
+          for PATH_API in \
+            "/api/v1/users/LRoffic/stats/last_7_days" \
+            "/api/compat/wakatime/v1/users/LRoffic/stats/last_7_days"
+          do
+            echo "=================================="
+            echo "Testing: $PATH_API"
+            echo "=================================="
+
+            curl --connect-timeout 10 --max-time 20 \
+              -sS \
+              -o /tmp/wakapi-response.json \
+              -w "\nHTTP_STATUS=%{http_code}\n" \
+              --get \
+              --data-urlencode "api_key=$WAKAPI_KEY" \
+              "$BASE$PATH_API" \
+              || echo "CURL_CONNECTION_ERROR"
+
+            echo "API response:"
+            cat /tmp/wakapi-response.json 2>/dev/null || true
+            echo ""
+          done
+
+      # 2. Génération des statistiques WakaTime
       - name: Generate WakaTime metrics
         uses: lowlighter/metrics@latest
         with:
@@ -23,11 +53,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages
           plugin_wakatime_user: "LRoffic"
-
-          # Adresse de base Wakapi, sans chemin API
           plugin_wakatime_url: "https://waka-api.lripsum.net"
-
-          # Clé API Wakapi stockée dans les secrets GitHub
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
           committer_message: "chore: update wakatime metrics"
