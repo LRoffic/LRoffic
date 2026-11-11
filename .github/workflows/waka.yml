@@ -9,7 +9,7 @@ jobs:
   wakatime:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Indispensable pour autoriser l'action à modifier le dépôt
+      contents: write
     steps:
       - name: Generate WakaTime metrics
         uses: lowlighter/metrics@latest
@@ -22,6 +22,5 @@ jobs:
           plugin_wakatime_user: LRoffic
           plugin_wakatime_url: "https://wakapi.lripsum.net/api"
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          # Paramètres pour commiter et pousser automatiquement le fichier généré :
           committer_message: "chore: update wakatime metrics"
           output_action: commit
