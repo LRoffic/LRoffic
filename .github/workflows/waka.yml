@@ -7,37 +7,24 @@ on:
 jobs:
   diagnose:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Test Wakapi API endpoints
+      - name: Test Wakapi API
         env:
           WAKAPI_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          BASE="https://waka-api.lripsum.net"
+          BASE="https://wakapi.lripsum.net"
 
-          for API_PATH in \
-            "/api/v1/users/LRoffic/stats/last_7_days" \
-            "/api/compat/wakatime/v1/users/LRoffic/stats/last_7_days"
-          do
-            echo ""
-            echo "===================================="
-            echo "TEST: $API_PATH"
-            echo "===================================="
+          echo "DNS:"
+          getent ahosts wakapi.lripsum.net || true
 
-            HTTP_CODE=$(curl \
-              --connect-timeout 10 \
-              --max-time 20 \
-              -sS \
-              -o /tmp/wakapi-response.json \
-              -w "%{http_code}" \
-              --get \
-              --data-urlencode "api_key=$WAKAPI_KEY" \
-              "$BASE$API_PATH") || true
+          echo "API:"
+          curl -sS -L \
+            --connect-timeout 10 \
+            --max-time 20 \
+            -o /tmp/response.json \
+            -w "\nHTTP_STATUS=%{http_code}\n" \
+            --get \
+            --data-urlencode "api_key=$WAKAPI_KEY" \
+            "$BASE/api/v1/users/LRoffic/stats/last_7_days" || true
 
-            echo "HTTP_STATUS=${HTTP_CODE:-CONNECTION_ERROR}"
-            echo "API_RESPONSE:"
-
-            cat /tmp/wakapi-response.json 2>/dev/null || true
-            rm -f /tmp/wakapi-response.json
-            echo ""
-          done
+          cat /tmp/response.json 2>/dev/null || true
