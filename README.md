@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lroffic" alt="lroffic" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://lripsum.net" target="_blank">My Website</a> & <a href="https://mega-minecraft.fr" target="_blank">Minecraft Server</a>
+- 🔭 I’m currently working on <a href="https://lripsum.net" target="_blank">My Website</a>
 
 - 🌱 I’m currently learning **SvelteKit & NodeJS**
 
@@ -179,11 +179,6 @@ PHP                      1 repo              ████░░░░░░░�
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/LRoffic/LRoffic/main/assets/bar_graph.png)
 
 
  Last Updated on 31/10/2026 21:46:18 UTC
