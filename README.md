@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lroffic" alt="lroffic" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://lripsum.net" target="_blank">My Website</a>
+- 🔭 I’m currently working on <a href="https://url.lripsum.net/gh" target="_blank">My Website</a>
 
 - 🌱 I’m currently learning **SvelteKit & NodeJS**
 
